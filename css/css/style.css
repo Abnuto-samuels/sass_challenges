@@ -1,0 +1,36 @@
+body {
+  background-image: url("html.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  text-align: center;
+  margin-left: 10%;
+  margin-right: 10%;
+  font-family: sans-serif; }
+
+input[type=text] {
+  border-radius: 10px;
+  width: 300px; }
+
+input[type=text]:hover {
+  box-shadow: 3px 4px 6px 7px black; }
+
+input[type=email] {
+  border-radius: 10px;
+  width: 300px; }
+
+input[type=email]:hover {
+  box-shadow: 3px 4px 6px 7px black; }
+
+button {
+  border-radius: 10px;
+  width: 150px; }
+
+button:hover {
+  background-color: grey;
+  box-shadow: 3px 4px 6px 7px black; }
+
+a {
+  box-shadow: 3px 4px 6px 7px black; }
+
+/*# sourceMappingURL=style.css.map */
